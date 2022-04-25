@@ -22,9 +22,11 @@ There were a total of 12,840 5-star reviews. From those only 33 were 5-star Vine
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-40.2% of all paid reviews are 5-tsar reviews, and 51.8% of all unpaid reviews are 5-star reviews. 
+40.2% of all paid reviews are 5-star reviews, and 51.8% of all unpaid reviews are 5-star reviews. 
 
 ![Percentage of 5-Star Reviews](https://user-images.githubusercontent.com/95899763/165024925-cda8611e-486d-4d91-b788-fa1b923ce6c2.PNG)
 
 
 # Summary 
+
+From the results above we can say that there is a posite bias for unpaid non-vine reviews. It is interesting to note that the sample size for between Vine review and non-Vine review is significantly large. 
